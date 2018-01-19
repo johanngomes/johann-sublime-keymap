@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+g"], "command": "find_under_expand" },
+	{ "keys": ["super+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true}}, 
+	{ "keys": ["super+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true}},
+	{ "keys": ["super+d"], "command": "duplicate_line" }
+]
